@@ -1,6 +1,6 @@
-œrodowisko: Matlab
-autor: Micha³ Huras
-Metoda simpleks oraz metoda simpleks dualna s¹ wykorzystywane do rozwi¹zywania zadañ optymalizacji. 
-Skrypty zawieraj¹ metody rozwi¹zywania w œrodowisku Matlab, który rozwiniêcie stanowi program napisany z zastosowaniem Matlab GUI. 
-Cel: konwersja na jêzyk C++ -> Stworzenie œrodowiska urzytkownika w C++
+Å›rodowisko: Matlab
+autor: MichaÅ‚ Huras
+Metoda simpleks oraz metoda simpleks dualna sÄ… wykorzystywane do rozwiÄ…zywania zadaÅ„ optymalizacji. 
+Skrypty zawierajÄ… metody rozwiÄ…zywania w Å›rodowisku Matlab, ktÃ³ry rozwiniÄ™cie stanowi program napisany z zastosowaniem Matlab GUI. 
+Cel: konwersja na jÄ™zyk C++ -> Stworzenie Å›rodowiska uzytkownika w C++
 
